@@ -1,5 +1,3 @@
-Here’s a revised and step-by-step README.md for your ESP32 IP camera object detection project using a YOLO model converted to TensorFlow Lite, based on your reminder that you converted it via CMD (likely using PyTorch to ONNX to TFLite or directly via PyTorch and TF tools):
-
 📷 YOLO Object Detection with Voice Feedback (ESP32 IP Camera + TFLite)
 This project performs real-time object detection on video streamed from an ESP32 IP Camera using a YOLO model converted to TensorFlow Lite, and provides voice feedback about detected objects using text-to-speech.
 
